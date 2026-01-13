@@ -9,7 +9,7 @@ I built this because i liked making a macropad and it's the samething as a keybo
 <img width="998" height="396" alt="image" src="https://github.com/user-attachments/assets/4a277ea1-c264-4cad-b5e8-bb500dba84ba" />
 <img width="639" height="268" alt="image" src="https://github.com/user-attachments/assets/70d476c0-1c89-4263-86ab-c35b5b33e4c1" />
 <img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/c5acfca1-ae8f-42c9-bf40-e9ee2d050b7a" />
-<img width="706" height="329" alt="image" src="https://github.com/user-attachments/assets/60c3ae2a-8826-4f47-aef6-c86be75c2d40" />
+
 
 
 
