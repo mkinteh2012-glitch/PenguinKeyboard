@@ -1,6 +1,6 @@
 # PenguinKeyboard
-This is a 84 key keyboard built by @penguinmo 
-extra features on this keyboard are none! there isn't any :)  
+This is a 84 key keyboard built by @penguinmo   
+Extra features on this keyboard are none! there isn't any :)  
 I built this because i liked making a macropad and it's the samething as a keyboard!
 
 ## PICTURES
