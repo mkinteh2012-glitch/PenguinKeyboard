@@ -8,9 +8,7 @@ I built this because i liked making a macropad and it's the samething as a keybo
 <img width="842" height="359" alt="image" src="https://github.com/user-attachments/assets/45e7fa92-a7d4-499d-b591-0cffcfd8f980" />
 <img width="998" height="396" alt="image" src="https://github.com/user-attachments/assets/4a277ea1-c264-4cad-b5e8-bb500dba84ba" />
 <img width="639" height="268" alt="image" src="https://github.com/user-attachments/assets/70d476c0-1c89-4263-86ab-c35b5b33e4c1" />
-<img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/c5acfca1-ae8f-42c9-bf40-e9ee2d050b7a" />    
-![Screenshot 2026-01-24 181313](https://github.com/user-attachments/assets/4497a755-1433-4484-a0a4-8cd6246188d7)      
-![Screenshot 2026-01-24 182113](https://github.com/user-attachments/assets/f28af470-a796-40c7-9f6a-912456995f5c)     
-
-
+<img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/c5acfca1-ae8f-42c9-bf40-e9ee2d050b7a" />
+<img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/398973b1-8538-45cd-be4b-7384f109c037" />
+<img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/f7fe37b4-99b3-420a-93e9-7e422463c05a" />  
 
