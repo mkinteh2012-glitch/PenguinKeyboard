@@ -12,3 +12,6 @@ I built this because i liked making a macropad and it's the samething as a keybo
 <img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/398973b1-8538-45cd-be4b-7384f109c037" />
 <img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/f7fe37b4-99b3-420a-93e9-7e422463c05a" />  
 
+NOTE: for the Keyboard there is no source CAD because it is exported from kicad
+
+
