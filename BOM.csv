@@ -1,6 +1,6 @@
  Item,Suplier,Quantity,Price,Shipping,Total
 PCB,JLCPCB,5,22.5,2.48,
-3D Print Parts,Print Legion,1 set,0,7,
+3D Print Parts,Print Legion,1 set,0,0, going to but them made locally
 Anti Slip Grip,Aliexpress,1 set,2.59,3.1,
 HeatSink Insert,Aliexpress,1 set,2.1,N/A,
 Cable,Aliexpress,1,2.27,N/A,
@@ -10,4 +10,4 @@ Keycap,Aliexpress,1 set,23.31,N/A,
 Pin Header,Aliexpress,1 set,2.31,N/A,
 Pi Pico,Aliexpress,1,4.28,,
 Switches,Aliexpress,100,15.78,N/A,
-Diodes,Aliexpress,100,2.4,,104
+Diodes,Aliexpress,100,2.4,,98
